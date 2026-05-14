@@ -1,16 +1,17 @@
-# AI Chatbot
+# Data Classification Using AI
 
 ## Description
-This project is a simple rule-based AI chatbot developed using Python. The chatbot interacts with users and responds to greetings, AI-related questions, time/date queries, and basic conversations using conditional statements.
+This project is a basic machine learning classification system developed using Python and the Iris dataset. A Decision Tree classifier is used to train the model and classify flower data accurately.
 
 ## Features
-- Greeting responses
-- AI-related answers
-- Date and time functionality
-- Interactive conversation
+- Dataset loading
+- Data splitting for training and testing
+- Decision Tree classification
+- Accuracy prediction
 
 ## Technologies Used
 - Python
+- Scikit-learn
 
 ## How to Run
-python chatbot.py
+python data_classification.py
